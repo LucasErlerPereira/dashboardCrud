@@ -225,17 +225,6 @@ return [
 
     'menu' => [
         [
-            'text' => 'search',
-            'search' => true,
-            'topnav' => true,
-        ],
-        [
-            'text' => 'blog',
-            'url'  => 'admin/blog',
-            'can'  => 'manage-blog',
-        ],
-        ['header' => 'USERS'],
-        [
             'text' => 'Usuários',
             'icon' => 'fas fa-fw fa-user',
             'submenu' => [
