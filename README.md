@@ -60,3 +60,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Dashboard Login
+
+<img src="https://i.ibb.co/zhqwLjv/Dashboard-Cadastro.jpg" alt="Dashboard-Cadastro" border="0">
+<img src="https://i.ibb.co/M8v9J6P/Dashboard-Delete.jpg" alt="Dashboard-Delete" border="0">
+<img src="https://i.ibb.co/qsh9w8j/Dashboard-Home.jpg" alt="Dashboard-Home" border="0">
+<img src="https://i.ibb.co/HGncLSB/Dashboard-Login.jpg" alt="Dashboard-Login" border="0">
+<img src="https://i.ibb.co/k9Nb3Tp/Dashboard-Update.jpg" alt="Dashboard-Update" border="0">
+<img src="https://i.ibb.co/MpB0D6K/Dashboard-User-List.jpg" alt="Dashboard-User-List" border="0">
