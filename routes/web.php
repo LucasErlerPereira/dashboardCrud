@@ -17,7 +17,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Auth::routes(['register' => false]);
+Auth::routes();
+
+// Route::match(['get', 'head'], '/login', [App\Http\Controllers\Auth\LoginController::class, 'showLoginForm'])->name('login');
+// Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'login']);
+// Route::match(['get', 'head'], '/register', [App\Http\Controllers\Auth\RegisterController::class, 'showRegistrationForm'])->name('register');
+// Route::post('/register', [App\Http\Controllers\Auth\RegisterController::class, 'register']);
+// Route::post('/logout', [App\Http\Controllers\Auth\LoginController::class, 'logout'])->name('logout');
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
